@@ -1,5 +1,5 @@
-#ifndef _CONNECTION_POOL_
-#define _CONNECTION_POOL_
+#ifndef _PORTICO_CONNECTION_POOL_
+#define _PORTICO_CONNECTION_POOL_
 
 #include <mysql/mysql.h>
 #include <list>
