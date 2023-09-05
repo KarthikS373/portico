@@ -66,8 +66,8 @@ public:
 private:
     void add_timer(util_timer *timer, util_timer *lst_head);
 
-    util_timer *head; // Pointer to the head of the timer list.
-    util_timer *tail; // Pointer to the tail of the timer list.
+    util_timer *head_; // Pointer to the head of the timer list.
+    util_timer *tail_; // Pointer to the tail of the timer list.
 };
 
 /**
